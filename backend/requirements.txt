@@ -1,0 +1,6 @@
+fastapi==0.95.0
+uvicorn==0.22.0
+pydantic==1.10.11
+httpx==0.24.1          # Para realizar solicitudes HTTP (opcional)
+sqlalchemy==2.0.0      # ORM para bases de datos (opcional)
+passlib[bcrypt]==1.7.4 # Para manejar contraseñas (opcional)
